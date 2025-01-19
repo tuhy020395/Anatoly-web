@@ -118,7 +118,7 @@ function App() {
                     <a href="https://x.com/Official_toly" target="_blank" rel="noopener noreferrer">
                         <img src="./images/IMG_2027.PNG" alt="Social Icon 2" className="social-icon" />
                     </a>
-                    <a href="https://t.me/Official_Anatoly" target="_blank" rel="noopener noreferrer">
+                    <a href="https://t.me/OfficialAnatoly" target="_blank" rel="noopener noreferrer">
                         <img src="./images/IMG_2029.png" alt="Social Icon 4" className="social-icon" />
                     </a>
                 </div>
