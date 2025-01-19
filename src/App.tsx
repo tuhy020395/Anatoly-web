@@ -10,7 +10,7 @@ function App() {
         <div className="container">
             <div className="header-content">
                 <a href="#" className="logo">
-                    <img src="./images/a-1.jpg" alt="$Anatoly Bull Logo" width="60" height="60" /> 
+                    <img src="./images/a-1.jpg" alt="$Toly Bull Logo" width="60" height="60" /> 
                     Anatoly
                 </a>
                 <div className="hamburger-menu">
@@ -32,9 +32,9 @@ function App() {
     <main>
         <section className="hero">
             <div className="hero-container">
-                <h1>$Anatoly</h1>
+                <h1>$Toly</h1>
                 <p>Official Anatoly Coin</p>
-                <a href="#" className="cta-button">SWAP Anatoly
+                <a href="#" className="cta-button">SWAP $Toly
                     </a>
             </div>
         </section>
@@ -44,7 +44,7 @@ function App() {
                 <h2 className="section-title fade-in">Welcome to official Anatoly</h2>
                 <div className="about-content">
                     <div className="about-text fade-in">
-                        <p>$Anatoly - The only official Anatoly coin meme.
+                        <p>$Toly - The only official Anatoly coin meme.
                             </p>
 
                     </div>
@@ -112,7 +112,7 @@ function App() {
         <section id="community" className="section community">
             <div className="container">
                 <h2 className="section-title fade-in">Join the Anatoly Community</h2>
-                <p className="fade-in">Want to be part of the wildest crypto community? Follow $Anatoly socials.
+                <p className="fade-in">Want to be part of the wildest crypto community? Follow $Toly socials.
                     </p>
                 <div className="social-links fade-in">
                     <a href="https://x.com/Official_toly" target="_blank" rel="noopener noreferrer">
